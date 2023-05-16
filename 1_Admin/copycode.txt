@@ -1,0 +1,11 @@
+<?php include "1a_header.php" ?>
+    
+<div id="templatemo_content">
+    <div>
+    <h2>Current Standard Rates </h2>
+    <fieldset>
+
+    </fieldset>
+    </div>
+</div>
+<?php include "99a_footer.php" ?>
